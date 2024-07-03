@@ -20,5 +20,5 @@ Object.defineProperty(exports, "__esModule", { value: true });
 // import "./behavioral-design-patterns/observer";
 // import "./behavioral-design-patterns/state";
 // import "./behavioral-design-patterns/strategy";
-require("./behavioral-design-patterns/template-method");
-// import "./behavioral-design-patterns/visitor";
+// import "./behavioral-design-patterns/template-method";
+require("./behavioral-design-patterns/visitor");

@@ -20,5 +20,5 @@
 // import "./behavioral-design-patterns/observer";
 // import "./behavioral-design-patterns/state";
 // import "./behavioral-design-patterns/strategy";
-import "./behavioral-design-patterns/template-method";
-// import "./behavioral-design-patterns/visitor";
+// import "./behavioral-design-patterns/template-method";
+import "./behavioral-design-patterns/visitor";
