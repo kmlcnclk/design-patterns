@@ -32,8 +32,8 @@ class ConcreteAggregate {
 // Kullanım
 const collection = new ConcreteAggregate();
 collection.addItem("Item 1");
-collection.addItem("Item 3");
 collection.addItem("Item 2");
+collection.addItem("Item 3");
 const iterator = collection.createIterator();
 while (iterator.hasNext()) {
     console.log(iterator.next());
